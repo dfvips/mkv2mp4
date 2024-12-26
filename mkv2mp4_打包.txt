@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon="mkv2mp4.ico" --version-file="version.txt" --name="mkv2mp4" mkv2mp4.py
